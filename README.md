@@ -1,2 +1,3 @@
 # queues
-JS queue module
+
+JS queue module, created for a small demo.
